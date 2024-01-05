@@ -1,0 +1,37 @@
+body {
+  color: #D8E4F1;               /* Dark gray */
+  background-color: #000305;    /* Light gray */
+  font-size: 18px;
+  font-family: "IM Fell English", serif;
+}
+
+h1 {
+  font-family: "IM Fell English", serif;
+  font-size: 3em;
+}
+
+h2 {
+  font-family: "IM Fell English", serif;
+  font-size: 1.6em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "IM Fell English", serif;
+  font-weight: normal;                              /* Add this */
+}
+
+ul {
+  list-style-type: circle;
+}
+
+ol {
+  list-style-type: lower-roman;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  text-align: left;
+}
